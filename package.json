@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.16.2",
+  "description": "simple node web app",
+  "main": "hello-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeilRow56/Node.js-simple-website.git"
+  },
+  "author": "Neil Rowland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeilRow56/Node.js-simple-website/issues"
+  },
+  "homepage": "https://github.com/NeilRow56/Node.js-simple-website#readme"
+}
